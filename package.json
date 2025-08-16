@@ -9,6 +9,7 @@
     "build:dev": "vite build --mode development",
     "lint": "eslint .",
     "preview": "vite preview"
+    "homepage": "https://heypraveen.me/Portfolio"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
@@ -85,3 +86,4 @@
     "vite": "^7.1.2"
   }
 }
+
